@@ -1,0 +1,6 @@
+D:\C#\buoi2\buoi2\btvn\bin\Debug\btvn.exe
+D:\C#\buoi2\buoi2\btvn\bin\Debug\btvn.pdb
+D:\C#\buoi2\buoi2\btvn\obj\Debug\btvn.csproj.AssemblyReference.cache
+D:\C#\buoi2\buoi2\btvn\obj\Debug\btvn.csproj.CoreCompileInputs.cache
+D:\C#\buoi2\buoi2\btvn\obj\Debug\btvn.exe
+D:\C#\buoi2\buoi2\btvn\obj\Debug\btvn.pdb

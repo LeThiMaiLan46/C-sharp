@@ -1,0 +1,6 @@
+D:\C#\buoi2\buoi2\buoi2trenlop\bin\Debug\buoi2trenlop.exe
+D:\C#\buoi2\buoi2\buoi2trenlop\bin\Debug\buoi2trenlop.pdb
+D:\C#\buoi2\buoi2\buoi2trenlop\obj\Debug\buoi2trenlop.csproj.AssemblyReference.cache
+D:\C#\buoi2\buoi2\buoi2trenlop\obj\Debug\buoi2trenlop.csproj.CoreCompileInputs.cache
+D:\C#\buoi2\buoi2\buoi2trenlop\obj\Debug\buoi2trenlop.exe
+D:\C#\buoi2\buoi2\buoi2trenlop\obj\Debug\buoi2trenlop.pdb

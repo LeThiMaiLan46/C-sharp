@@ -1,0 +1,6 @@
+D:\C#\Buoii4\Bai1\bin\Debug\Bai1.exe
+D:\C#\Buoii4\Bai1\bin\Debug\Bai1.pdb
+D:\C#\Buoii4\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\C#\Buoii4\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\C#\Buoii4\Bai1\obj\Debug\Bai1.exe
+D:\C#\Buoii4\Bai1\obj\Debug\Bai1.pdb

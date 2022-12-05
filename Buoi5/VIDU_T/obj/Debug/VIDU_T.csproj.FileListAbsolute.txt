@@ -1,0 +1,6 @@
+D:\C#\Buoi5\VIDU_T\bin\Debug\VIDU_T.exe
+D:\C#\Buoi5\VIDU_T\bin\Debug\VIDU_T.pdb
+D:\C#\Buoi5\VIDU_T\obj\Debug\VIDU_T.csprojAssemblyReference.cache
+D:\C#\Buoi5\VIDU_T\obj\Debug\VIDU_T.csproj.CoreCompileInputs.cache
+D:\C#\Buoi5\VIDU_T\obj\Debug\VIDU_T.exe
+D:\C#\Buoi5\VIDU_T\obj\Debug\VIDU_T.pdb

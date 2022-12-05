@@ -1,0 +1,2 @@
+D:\C#\buoi1\buoi1\btvn_buoi1\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\C#\buoi1\buoi1\btvn_buoi1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache

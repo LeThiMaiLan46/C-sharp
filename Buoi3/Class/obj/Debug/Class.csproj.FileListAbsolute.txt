@@ -1,0 +1,6 @@
+D:\C#\Buoi3\Class\bin\Debug\Class.exe
+D:\C#\Buoi3\Class\bin\Debug\Class.pdb
+D:\C#\Buoi3\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+D:\C#\Buoi3\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\C#\Buoi3\Class\obj\Debug\Class.exe
+D:\C#\Buoi3\Class\obj\Debug\Class.pdb
